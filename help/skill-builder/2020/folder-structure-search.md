@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 7338
 exl-id: 596b3f82-405c-47bf-af63-55f72bd8634e
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '143'
 ht-degree: 2%
 
 ---
 
 # Struttura delle cartelle e ricerca - Adobe [!DNL Experience Manager Assets] serie
 
-Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare l’investimento in Adobe [!DNL Experience Manager Assets]. Se sei un professionista che non ha mai usato Adobi [!DNL Experience Manager Assets] o hanno utilizzato Adobe [!DNL Experience Manager Assets] per un po’ di tempo e stai cercando di perfezionare le tue competenze esistenti, questo è il modo ideale per approfondire cinque delle aree più importanti della soluzione. Gli Adobi esamineranno le nozioni di base e forniranno informazioni avanzate che consentiranno di definire i passaggi successivi da mettere in pratica immediatamente.
+Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare l’investimento in Adobe [!DNL Experience Manager Assets]. Se sei un nuovo utente di Adobe [!DNL Experience Manager Assets] o perfezionando le tue competenze, questo approfondimento in cinque aree chiave è il modo perfetto per migliorare la tua esperienza. Gli esperti di Adobe esaminano le nozioni di base e forniscono informazioni avanzate che consentono di eseguire immediatamente i passaggi successivi da mettere in pratica.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 
@@ -29,13 +29,13 @@ Nozioni di base sull’impostazione e l’utilizzo di DAM.
 
 ## Riferimenti
 
-* [[!DNL AEM Assets] Guida utente](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
-* [Configurazione del [!DNL AEM Assets] struttura di cartelle](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
-* [Configurazione [!DNL AEM Assets] autorizzazioni cartella](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html)
-* [Utilizzare le raccolte per organizzare e condividere le risorse](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [Trovare risorse visivamente simili con l’apprendimento automatico](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Ottieni risultati di ricerca precisi e precisi con facet di ricerca dinamica](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Sintassi di ricerca full-text avanzata](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
+* [[!DNL AEM Assets] Guida utente](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/assets)
+* [Configurazione del [!DNL AEM Assets] struttura di cartelle](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [Configurazione [!DNL AEM Assets] autorizzazioni cartella](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-permissions)
+* [Utilizzare le raccolte per organizzare e condividere le risorse](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/collections)
+* [Trovare risorse visivamente simili con l’apprendimento automatico](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [Ottieni risultati di ricerca precisi e precisi con facet di ricerca dinamica](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [Sintassi di ricerca full-text avanzata](https://experienceleague.adobe.com/en/docs/experience-manager-64/assets/using/gql-search#using)
 
 ## Registrazioni in serie
 

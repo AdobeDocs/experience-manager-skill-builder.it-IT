@@ -1,6 +1,6 @@
 ---
-title: Creazione rapida di belle esperienze web
-description: Scopri le nozioni di base sull’authoring e le competenze necessarie per creare e modificare rapidamente le pagine
+title: Creare rapidamente esperienze web accattivanti
+description: Scopri le nozioni di base sull’authoring e le competenze necessarie per creare e modificare rapidamente le pagine.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -12,22 +12,22 @@ version: Cloud Service
 type: Event
 kt: 8945
 exl-id: cc4b57a5-c76a-48fa-9c05-39374081fc45
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] nozioni di base
 
-Scopri come creare esperienze cliente avanzate e coinvolgenti in Adobe Experience Manager in questa serie di webinar in 5 parti. Inizieremo con gli elementi di base dell’authoring dei contenuti, presentandoti i concetti e le operazioni fondamentali. Questo includerà le funzioni di amministrazione dei siti e le nozioni di base sulla gestione delle risorse digitali in AEM. Nella parte successiva della serie, scopri le funzioni che possono aiutarti a risparmiare tempo ed essere più efficiente riutilizzando i contenuti e distribuendoli tra i canali.
+Scopri come creare esperienze cliente avanzate e coinvolgenti in Adobe Experience Manager in questa serie di webinar in 5 parti. La serie inizia con gli elementi costitutivi dell’authoring dei contenuti, presentando al contempo i concetti e le operazioni fondamentali. Include funzioni di amministrazione dei siti e nozioni di base sulla gestione delle risorse digitali in AEM. Nell’ultima parte della serie, scopri le funzioni che possono aiutarti a risparmiare tempo ed essere più efficiente riutilizzando i contenuti e distribuendoli tra i canali.
 
 ## Creazione rapida di belle esperienze web
 
 >[!VIDEO](https://video.tv.adobe.com/v/337014/?quality=12&learn=on&hidetitle=true)
 
-Scopri le nozioni di base sull’authoring e le competenze necessarie per creare e modificare rapidamente le pagine.
+Scopri le competenze di authoring fondamentali per creare e modificare rapidamente le pagine.
 
 ## Registrazioni in serie
 

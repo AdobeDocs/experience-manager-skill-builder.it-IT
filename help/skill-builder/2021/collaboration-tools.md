@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 8934
 exl-id: 50981e5d-fd1f-4ab8-9b58-d4b8df69d089
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] nozioni di base
 
-Scopri come creare esperienze cliente avanzate e coinvolgenti in Adobe Experience Manager in questa serie di webinar in 5 parti. Inizieremo con gli elementi di base dell’authoring dei contenuti, presentandoti i concetti e le operazioni fondamentali. Questo includerà le funzioni di amministrazione dei siti e le nozioni di base sulla gestione delle risorse digitali in AEM. Nella parte successiva della serie, scopri le funzioni che possono aiutarti a risparmiare tempo ed essere più efficiente riutilizzando i contenuti e distribuendoli tra i canali.
+Scopri come creare esperienze cliente avanzate e coinvolgenti in Adobe Experience Manager in questa serie di webinar in 5 parti. La serie inizia con gli elementi costitutivi dell’authoring dei contenuti, presentando al contempo i concetti e le operazioni fondamentali. Include funzioni di amministrazione dei siti e nozioni di base sulla gestione delle risorse digitali in AEM. Nell’ultima parte della serie, scopri le funzioni che possono aiutarti a risparmiare tempo ed essere più efficiente riutilizzando i contenuti e distribuendoli tra i canali.
 
 ## Gestire facilmente i contenuti in continua evoluzione
 

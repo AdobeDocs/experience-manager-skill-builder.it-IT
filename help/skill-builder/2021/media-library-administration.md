@@ -1,6 +1,6 @@
 ---
 title: Non perdere mai più tempo a cercare contenuti
-description: Diventa un autore esperto con un approfondimento dell’interfaccia utente di amministrazione di Media Library e siti AEM con suggerimenti e trucchi per aumentare l’efficienza quotidiana
+description: Migliora le tue capacità di authoring con una guida approfondita a AEM Sites e Media Library con suggerimenti pratici per semplificare il flusso di lavoro quotidiano.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -12,22 +12,22 @@ version: Cloud Service
 type: Event
 kt: 8937
 exl-id: 080d9491-4d0a-4336-a4e0-a82d7bf5a278
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] nozioni di base
 
-Scopri come creare esperienze cliente avanzate e coinvolgenti in Adobe Experience Manager in questa serie di webinar in 5 parti. Inizieremo con gli elementi di base dell’authoring dei contenuti, presentandoti i concetti e le operazioni fondamentali. Questo includerà le funzioni di amministrazione dei siti e le nozioni di base sulla gestione delle risorse digitali in AEM. Nella parte successiva della serie, scopri le funzioni che possono aiutarti a risparmiare tempo ed essere più efficiente riutilizzando i contenuti e distribuendoli tra i canali.
+Scopri come creare esperienze cliente avanzate e coinvolgenti in Adobe Experience Manager in questa serie di webinar in 5 parti. La serie inizia con gli elementi costitutivi dell’authoring dei contenuti, presentando al contempo i concetti e le operazioni fondamentali. Include funzioni di amministrazione dei siti e nozioni di base sulla gestione delle risorse digitali in AEM. Nell’ultima parte della serie, scopri le funzioni che possono aiutarti a risparmiare tempo ed essere più efficiente riutilizzando i contenuti e distribuendoli tra i canali.
 
 ## Non perdere mai più tempo a cercare contenuti
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-Diventa un autore esperto con un approfondimento dell’interfaccia utente di amministrazione di Media Library e siti AEM con suggerimenti e trucchi per aumentare l’efficienza quotidiana.
+Aumenta le tue competenze di authoring con un percorso tramite i siti AEM e l’interfaccia utente di amministrazione di Media Library, dotati di strategie efficaci per aumentare la produttività quotidiana.
 
 ## Registrazioni in serie
 

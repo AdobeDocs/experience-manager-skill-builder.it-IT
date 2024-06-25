@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 7341
 exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 2%
+source-wordcount: '115'
+ht-degree: 3%
 
 ---
 
 # [!DNL Dynamic Media]- ADOBE [!DNL Experience Manager Assets] serie
 
-Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare l’investimento in Adobe [!DNL Experience Manager Assets]. Se sei un professionista che non ha mai usato Adobi [!DNL Experience Manager Assets] o hanno utilizzato Adobe [!DNL Experience Manager Assets] per un po’ di tempo e stai cercando di perfezionare le tue competenze esistenti, questo è il modo ideale per approfondire cinque delle aree più importanti della soluzione. Gli Adobi esamineranno le nozioni di base e forniranno informazioni avanzate che consentiranno di definire i passaggi successivi da mettere in pratica immediatamente.
+Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare l’investimento in Adobe [!DNL Experience Manager Assets]. Scopri o perfeziona il tuo Adobe [!DNL Experience Manager Assets] esperienza con un approfondimento mirato sulle sue cinque funzioni essenziali, il vostro percorso rapido verso l&#39;esperienza. Gli esperti di Adobe esaminano le nozioni di base e forniscono informazioni avanzate che consentono di eseguire immediatamente i passaggi successivi da mettere in pratica.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 
@@ -29,11 +29,11 @@ Automatizza l’output delle risorse per tutti i canali e gli schermi con [!DNL 
 
 ## Riferimenti
 
-*[[!DNL Dynamic Media] Casi d’uso](https://www.adobe.com/content/dam/acom/en/marketing-cloud/experience-manager/pdfs/dynamic-media_dynamic-media-classic-use-cases-2019.pdf)
-*[[!DNL Dynamic Media] Video](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=en#dynamic-media)
+*[[!DNL Dynamic Media] Casi d’uso](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-journey-part1)
+*[[!DNL Dynamic Media] Video](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
 *[Guida introduttiva alla strategia per i contenuti multimediali avanzati](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[Guida ai predefiniti per le immagini della strategia Rich Media](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Immagine della serie Blog Everything](https://blog.adobe.com/en/2019/04/11/image-is-everything-part-1-has-your-rich-media-strategy-expired.html#gs.iou0ek)
+*[Best practice per Dynamic Medie](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
 
 ## Registrazioni in serie
 
