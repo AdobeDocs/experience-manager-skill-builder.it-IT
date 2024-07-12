@@ -19,9 +19,9 @@ ht-degree: 3%
 
 ---
 
-# Metadati - Adobe [!DNL Experience Manager Assets] serie
+# Metadati - Adobe serie [!DNL Experience Manager Assets]
 
-Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare l’investimento in Adobe [!DNL Experience Manager Assets]. Perfetta sia per i nuovi utenti che per gli utenti esperti, questa sessione offre una panoramica completa degli Adobi [!DNL Experience Manager Assets]Le cinque caratteristiche essenziali per soddisfare le esigenze della soluzione. Gli esperti di Adobe esaminano le nozioni di base e forniscono informazioni avanzate che consentono di eseguire immediatamente i passaggi successivi da mettere in pratica.
+Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare il tuo investimento nell&#39;Adobe [!DNL Experience Manager Assets]. Perfetta sia per i nuovi utenti che per gli utenti esperti, questa sessione offre un&#39;esplorazione completa delle cinque funzionalità essenziali di Adobe [!DNL Experience Manager Assets] per affrontare la soluzione. Gli esperti di Adobe esaminano le nozioni di base e forniscono informazioni avanzate che consentono di eseguire immediatamente i passaggi successivi da mettere in pratica.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 
@@ -29,12 +29,12 @@ Definire una strategia chiara per ottimizzare la reperibilità.
 
 ## Riferimenti
 
-*[Utilizzare gli schemi di metadati per gestire i metadati delle risorse](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/authoring/metadata)
-*[Estendere gli schemi di metadati](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-schemas)
-*[Ottimizzare l’authoring dei metadati con i metadati a cascata](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
+*[Utilizzare gli schemi metadati per gestire i metadati delle risorse](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/authoring/metadata)
+*[Estendi schemi metadati](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-schemas)
+*[Ottimizzare l&#39;authoring dei metadati con i metadati a catena](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
 *[Applicare automaticamente i metadati alle risorse utilizzando i profili metadati](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-profiles)
-*[Schemi di metadati AEM](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
-*[Gestire i metadati delle risorse](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
+*[Schemi metadati AEM](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
+*[Gestione metadati risorse](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
 
 ## Registrazioni in serie
 

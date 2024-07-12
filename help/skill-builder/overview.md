@@ -9,9 +9,9 @@ ht-degree: 4%
 
 ---
 
-# [!DNL Experience Manager] Registrazioni Skill Builder
+# [!DNL Experience Manager] registrazioni Skill Builder
 
-Benvenuti nell&#39;Adobe [!DNL Experience Manager] Home page di Skill Builder Recordings con webinar registrati progettati per creare la knowledge base e massimizzare l&#39;investimento in Adobe [!DNL Experience Manager].
+Ti diamo il benvenuto nella pagina principale delle registrazioni di Adobe [!DNL Experience Manager] Skill Builder con webinar registrati progettati per creare la tua knowledge base e massimizzare il tuo investimento in Adobe [!DNL Experience Manager].
 
 ## Novità
 
@@ -53,7 +53,7 @@ Benvenuti nell&#39;Adobe [!DNL Experience Manager] Home page di Skill Builder Re
       </a>
     </div>
     <p>
-    <em>Automatizza l’output delle risorse per tutti i canali e gli schermi.</em>
+    <em>Automatizza l'output delle risorse per tutti i canali e le schermate.</em>
     <p>
   </td>
 </tr>
@@ -61,4 +61,4 @@ Benvenuti nell&#39;Adobe [!DNL Experience Manager] Home page di Skill Builder Re
 
 >[!TIP]
 >
->**Per le registrazioni dagli eventi Skill Builder precedenti, vai a sinistra**.
+>**Per le registrazioni di eventi Skill Builder precedenti, vedere la navigazione a sinistra**.

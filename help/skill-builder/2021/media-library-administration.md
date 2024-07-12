@@ -1,6 +1,6 @@
 ---
 title: Non perdere mai più tempo a cercare contenuti
-description: Migliora le tue capacità di authoring con una guida approfondita a AEM Sites e Media Library con suggerimenti pratici per semplificare il flusso di lavoro quotidiano.
+description: Migliora le tue capacità di authoring con una guida dettagliata a Sites e Media Library dell’AEM e suggerimenti pratici per semplificare il flusso di lavoro quotidiano.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -27,7 +27,7 @@ Scopri come creare esperienze cliente avanzate e coinvolgenti in Adobe Experienc
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-Aumenta le tue competenze di authoring con un percorso tramite i siti AEM e l’interfaccia utente di amministrazione di Media Library, dotati di strategie efficaci per aumentare la produttività quotidiana.
+Migliorate le vostre competenze di authoring con un percorso che si avvale dell&#39;interfaccia utente di amministrazione di Sites e Media Library dell&#39;AEM, dotata di strategie efficaci per aumentare la produttività quotidiana.
 
 ## Registrazioni in serie
 

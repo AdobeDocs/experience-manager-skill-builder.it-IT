@@ -19,9 +19,9 @@ ht-degree: 3%
 
 ---
 
-# BRAND PORTAL - ADOBE [!DNL Experience Manager Assets] serie
+# Brand Portal - Adobe serie [!DNL Experience Manager Assets]
 
-Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare l’investimento in Adobe [!DNL Experience Manager Assets]. Migliora la tua padronanza dell’Adobe [!DNL Experience Manager Assets], sia che tu sia un principiante o un esperto. Approfondisci i cinque aspetti critici della piattaforma con questa guida completa. Gli esperti di Adobe esaminano le nozioni di base e forniscono informazioni avanzate che consentono di eseguire immediatamente i passaggi successivi da mettere in pratica.
+Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare il tuo investimento nell&#39;Adobe [!DNL Experience Manager Assets]. Migliora la tua padronanza dell&#39;Adobe [!DNL Experience Manager Assets], sia che tu sia un principiante o un esperto. Approfondisci i cinque aspetti critici della piattaforma con questa guida completa. Gli esperti di Adobe esaminano le nozioni di base e forniscono informazioni avanzate che consentono di eseguire immediatamente i passaggi successivi da mettere in pratica.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332133/?quality=12&learn=on&hidetitle=true)
 
@@ -30,8 +30,8 @@ Brand Portal consente di condividere facilmente le risorse con i team interni ed
 ## Riferimenti
 
 * [Panoramica di [!UICONTROL Brand Portal]](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal)
-* [[!UICONTROL Brand Portal] Video](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
-* [[!DNL Asset] sourcing](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
+* [[!UICONTROL Video su Brand Portal]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
+* [[!DNL Asset] determinazione origine](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
 
 ## Registrazioni in serie
 
