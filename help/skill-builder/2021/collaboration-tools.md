@@ -1,6 +1,6 @@
 ---
 title: Gestire facilmente i contenuti in continua evoluzione
-description: Scopri gli strumenti di collaborazione per l’authoring di Experienci Manager
+description: Scopri gli strumenti di collaborazione per authoring di Experience Manager
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -8,18 +8,18 @@ feature: Authoring
 topic: Collaboration
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8934
 exl-id: 50981e5d-fd1f-4ab8-9b58-d4b8df69d089
-source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Experience Manager Sites] nozioni di base
+# Nozioni di base su Adobe [!DNL Experience Manager Sites]
 
 Scopri come creare esperienze cliente avanzate e coinvolgenti in Adobe Experience Manager in questa serie di webinar in 5 parti. La serie inizia con gli elementi costitutivi dell’authoring dei contenuti, presentando al contempo i concetti e le operazioni fondamentali. Include funzioni di amministrazione dei siti e nozioni di base sulla gestione delle risorse digitali in AEM. Nell’ultima parte della serie, scopri le funzioni che possono aiutarti a risparmiare tempo ed essere più efficiente riutilizzando i contenuti e distribuendoli tra i canali.
 
@@ -27,7 +27,7 @@ Scopri come creare esperienze cliente avanzate e coinvolgenti in Adobe Experienc
 
 >[!VIDEO](https://video.tv.adobe.com/v/336984/?quality=12&learn=on&hidetitle=true)
 
-Scopri gli strumenti di collaborazione per l’authoring di Experienci Manager.
+Scopri gli strumenti di collaborazione per authoring di Experience Manager.
 
 ## Registrazioni in serie
 

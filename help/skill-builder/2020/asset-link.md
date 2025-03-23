@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Asset Link]"
+title: '[!DNL Asset Link]'
 description: Connessione nativa a Adobe Creative Cloud.
 solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
 product: experience manager
@@ -8,11 +8,11 @@ feature: Adobe [!DNL Asset Link]
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7342
 exl-id: feadb1e0-ea1a-42ab-abf8-9791be46796e
-source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 5%
@@ -21,7 +21,7 @@ ht-degree: 5%
 
 # [!DNL Asset Link] - Adobe serie [!DNL Experience Manager Assets]
 
-Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare il tuo investimento nell&#39;Adobe [!DNL Experience Manager Assets]. Nuovo o con condimenti nell&#39;Adobe [!DNL Experience Manager Assets]? Perfezionate le vostre abilità con una profonda esplorazione delle sue cinque funzioni chiave. Aumenta le tue competenze in modo efficiente. Gli esperti di Adobe esaminano le nozioni di base e forniscono informazioni avanzate che consentono di eseguire immediatamente i passaggi successivi da mettere in pratica.
+Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare il tuo investimento in Adobe [!DNL Experience Manager Assets]. Novità o novità in Adobe [!DNL Experience Manager Assets]? Perfezionate le vostre abilità con una profonda esplorazione delle sue cinque funzioni chiave. Aumenta le tue competenze in modo efficiente. Gli esperti di Adobe esaminano le nozioni di base e forniscono informazioni avanzate che consentono di seguire i passaggi successivi da mettere in pratica immediatamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
 

@@ -8,11 +8,11 @@ feature: Brand Portal
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7340
 exl-id: 9070f559-b364-4d8f-a60a-1bda65fc4ca1
-source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 3%
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 # Brand Portal - Adobe serie [!DNL Experience Manager Assets]
 
-Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare il tuo investimento nell&#39;Adobe [!DNL Experience Manager Assets]. Migliora la tua padronanza dell&#39;Adobe [!DNL Experience Manager Assets], sia che tu sia un principiante o un esperto. Approfondisci i cinque aspetti critici della piattaforma con questa guida completa. Gli esperti di Adobe esaminano le nozioni di base e forniscono informazioni avanzate che consentono di eseguire immediatamente i passaggi successivi da mettere in pratica.
+Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare il tuo investimento in Adobe [!DNL Experience Manager Assets]. Migliora la tua padronanza di Adobe [!DNL Experience Manager Assets], sia che tu sia un principiante o un esperto. Approfondisci i cinque aspetti critici della piattaforma con questa guida completa. Gli esperti di Adobe esaminano le nozioni di base e forniscono informazioni avanzate che consentono di seguire i passaggi successivi da mettere in pratica immediatamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332133/?quality=12&learn=on&hidetitle=true)
 

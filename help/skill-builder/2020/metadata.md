@@ -8,11 +8,11 @@ feature: Metadata
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7339
 exl-id: 35b85f97-ffe4-43f9-98ae-dae0d36bae91
-source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 3%
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 # Metadati - Adobe serie [!DNL Experience Manager Assets]
 
-Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare il tuo investimento nell&#39;Adobe [!DNL Experience Manager Assets]. Perfetta sia per i nuovi utenti che per gli utenti esperti, questa sessione offre un&#39;esplorazione completa delle cinque funzionalità essenziali di Adobe [!DNL Experience Manager Assets] per affrontare la soluzione. Gli esperti di Adobe esaminano le nozioni di base e forniscono informazioni avanzate che consentono di eseguire immediatamente i passaggi successivi da mettere in pratica.
+Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare il tuo investimento in Adobe [!DNL Experience Manager Assets]. Perfetta sia per i nuovi utenti che per gli utenti esperti, questa sessione offre un&#39;esplorazione completa delle cinque funzionalità essenziali di Adobe [!DNL Experience Manager Assets] per affrontare la soluzione. Gli esperti di Adobe esaminano le nozioni di base e forniscono informazioni avanzate che consentono di seguire i passaggi successivi da mettere in pratica immediatamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 
