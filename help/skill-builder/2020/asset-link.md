@@ -29,9 +29,9 @@ Utilizza questa serie di webinar in cinque parti per creare la tua knowledge bas
 
 ## Riferimenti
 
-* [Adobe [!DNL Asset Link] video](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
+* [Adobe [!DNL Asset Link] video](https://experienceleague.adobe.com/it/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
 * [[!DNL Asset Link] per Adobe XD](https://helpx.adobe.com/it/enterprise/using/adobe-asset-link-for-xd.html)
-* [Configura [!DNL AEM Assets] 6.5 e 6.4 per Adobe [!DNL Asset Link]](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [Configura [!DNL AEM Assets] 6.5 e 6.4 per Adobe [!DNL Asset Link]](https://helpx.adobe.com/it/enterprise/using/configure-aem-assets-6-for-asset-link.html)
 * [Configura [!DNL AEM as a Cloud Service] per Adobe [!DNL Asset Link]](https://helpx.adobe.com/it/enterprise/using/configure-aem-assets-for-asset-link.html)
 
 ## Registrazioni in serie

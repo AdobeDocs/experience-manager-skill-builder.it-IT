@@ -29,12 +29,12 @@ Definire una strategia chiara per ottimizzare la reperibilità.
 
 ## Riferimenti
 
-*[Utilizzare gli schemi metadati per gestire i metadati delle risorse](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/authoring/metadata)
-*[Estendi schemi metadati](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-schemas)
-*[Ottimizzare l&#39;authoring dei metadati con i metadati a catena](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
-*[Applicare automaticamente i metadati alle risorse utilizzando i profili metadati](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-profiles)
-*[Schemi metadati AEM](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
-*[Gestione metadati risorse](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
+*[Utilizzare gli schemi metadati per gestire i metadati delle risorse](https://experienceleague.adobe.com/it/docs/experience-manager-learn/assets/authoring/metadata)
+*[Estendi schemi metadati](https://experienceleague.adobe.com/it/docs/experience-manager-learn/assets/configuring/metadata-schemas)
+*[Ottimizzare l&#39;authoring dei metadati con i metadati a catena](https://experienceleague.adobe.com/it/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
+*[Applicare automaticamente i metadati alle risorse utilizzando i profili metadati](https://experienceleague.adobe.com/it/docs/experience-manager-learn/assets/configuring/metadata-profiles)
+*[Schemi metadati AEM](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
+*[Gestione metadati risorse](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
 
 ## Registrazioni in serie
 

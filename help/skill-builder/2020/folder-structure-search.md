@@ -29,13 +29,13 @@ Nozioni di base sull’impostazione e l’utilizzo di DAM.
 
 ## Riferimenti
 
-* [[!DNL AEM Assets] Guida utente](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/assets)
-* [Configurazione della  [!DNL AEM Assets] struttura di cartelle](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
-* [Configura [!DNL AEM Assets] autorizzazioni cartella](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-permissions)
-* [Utilizzare le raccolte per organizzare e condividere le risorse](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/collections)
-* [Trova risorse visivamente simili con apprendimento automatico](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
-* [Ottieni risultati di ricerca precisi e precisi con facet di ricerca dinamica](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
-* [Sintassi di ricerca full-text avanzata](https://experienceleague.adobe.com/en/docs/experience-manager-64/assets/using/gql-search#using)
+* [[!DNL AEM Assets] Guida utente](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/assets/assets)
+* [Configurazione della  [!DNL AEM Assets] struttura di cartelle](https://experienceleague.adobe.com/it/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [Configura [!DNL AEM Assets] autorizzazioni cartella](https://experienceleague.adobe.com/it/docs/experience-manager-learn/assets/configuring/baseline-permissions)
+* [Utilizzare le raccolte per organizzare e condividere le risorse](https://experienceleague.adobe.com/it/docs/experience-manager-learn/assets/search-and-discovery/collections)
+* [Trova risorse visivamente simili con apprendimento automatico](https://experienceleague.adobe.com/it/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [Ottieni risultati di ricerca precisi e precisi con facet di ricerca dinamica](https://experienceleague.adobe.com/it/docs/experience-manager-learn/assets/search-and-discovery/search)
+* [Sintassi di ricerca full-text avanzata](https://experienceleague.adobe.com/it/docs/experience-manager-64/assets/using/gql-search#using)
 
 ## Registrazioni in serie
 
