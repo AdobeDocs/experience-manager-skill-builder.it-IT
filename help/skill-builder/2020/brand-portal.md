@@ -1,7 +1,7 @@
 ---
 title: Brand Portal
 description: Condivisione semplice delle risorse con team interni ed esterni
-solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
+solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
 feature: Brand Portal
@@ -12,10 +12,10 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 7340
 exl-id: 9070f559-b364-4d8f-a60a-1bda65fc4ca1
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 3%
+source-wordcount: '149'
+ht-degree: 22%
 
 ---
 
@@ -27,11 +27,11 @@ Utilizza questa serie di webinar in cinque parti per creare la tua knowledge bas
 
 Brand Portal consente di condividere facilmente le risorse con i team interni ed esterni.
 
-## Riferimenti
+## Risorse
 
 * [Panoramica di [!UICONTROL Brand Portal]](https://experienceleague.adobe.com/it/docs/experience-manager-brand-portal/using/introduction/brand-portal)
-* [[!UICONTROL Video su Brand Portal]](https://experienceleague.adobe.com/it/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
-* [[!DNL Asset] determinazione origine](https://experienceleague.adobe.com/it/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
+* [[!UICONTROL Video su Brand Portal]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
+* [[!DNL Asset] sourcing](https://experienceleague.adobe.com/it/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
 
 ## Registrazioni in serie
 
