@@ -11,9 +11,7 @@ source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
 workflow-type: tm+mt
 source-wordcount: '29'
 ht-degree: 3%
-
 ---
-
 # Verifica delle best practice con [!DNL Cloud Manager] - Settembre 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
@@ -24,6 +22,6 @@ ht-degree: 3%
 * Justin Edelson - Product Manager
 * Patrick Kynaston - Customer Success Engineer
 
-## Riferimenti
+## Risorse
 
 [Scarica presentazione](./assets/CloudManagerWebinarSeptember2019.pdf)
