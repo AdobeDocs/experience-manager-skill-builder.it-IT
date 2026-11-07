@@ -19,7 +19,7 @@ ht-degree: 3%
 ---
 # Verifica delle best practice con [!DNL Cloud Manager] - Settembre 2019
 
->[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507315/?captions=ita&quality=9&learn=on)
 
 
 **Presentatori**
